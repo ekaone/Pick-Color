@@ -1,0 +1,11 @@
+{
+  "name": "pick-color",
+  "version": "0.1.0",
+  "description": "Get Colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node __test__.js"
+  },
+  "author": "Eka",
+  "license": "MIT"
+}
